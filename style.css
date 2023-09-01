@@ -23,3 +23,15 @@ img {
 	display:flex;
 	flex-wrap:wrap;
 }
+
+h1 {
+	font-size:2.25rem;
+}
+
+h2 {
+	font-size:1.25rem;
+}
+
+.cat-name{
+	font-size:2.1rem;
+}
